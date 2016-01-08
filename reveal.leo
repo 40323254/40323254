@@ -719,6 +719,20 @@
 </v>
 </v>
 </v>
+<v t="40323255.20160108221722.2" a="E"><vh>Recovered Nodes</vh>
+<v t="40323255.20160108221722.3"><vh>Recovered node "有關我的作業" from @clean simplest.html</vh>
+<v t="40323255.20160108221722.4"><vh>old:有關我的作業</vh></v>
+<v t="40323255.20160108221722.5"><vh>new:有關我的作業</vh></v>
+</v>
+<v t="40323255.20160108221722.6"><vh>Recovered node "第2" from @clean simplest.html</vh>
+<v t="40323255.20160108221722.7"><vh>old:第2</vh></v>
+<v t="40323255.20160108221722.8"><vh>new:第2</vh></v>
+</v>
+<v t="40323255.20160108221722.9"><vh>Recovered node "第3張投影片" from @clean simplest.html</vh>
+<v t="40323255.20160108221722.10"><vh>old:第3張投影片</vh></v>
+<v t="40323255.20160108221722.11"><vh>new:第3張投影片</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="40323255.20151105165948.1">@language xml
@@ -1231,6 +1245,92 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323255"; }&lt;/style&gt
 	
 &lt;/section&gt;				
 				
+</t>
+<t tx="40323255.20160108221722.10">&lt;section&gt;
+    &lt;h2&gt;心得與分數&lt;/h2&gt;
+    &lt;p&gt;一年級的時候有學到基本的python，現在電腦輔助設計這堂課，學到比之前更進階的觀念，學到如何把python跟Leo Editor做結合，雖然只是皮毛而已，但是慢慢學習一定可以有收穫的！
+    我給我自己的分數：75 &lt;/p&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20160108221722.11">&lt;section&gt;
+    &lt;h1&gt;第3張投影片&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20160108221722.2"></t>
+<t tx="40323255.20160108221722.3">(uncached) amd.20150915211351.7
+Diff...
+  &lt;!-- 以下為投影片 --&gt;
+  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+  &lt;section&gt;
+-     &lt;h1&gt;有關我的作業&lt;/h1&gt;
+-     &lt;p&gt;學號姓名與日期&lt;/p&gt;		
++     &lt;h2&gt;四設二乙&lt;/h2&gt;
++     &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
+  &lt;/section&gt;
+  	
+</t>
+<t tx="40323255.20160108221722.4">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設二乙&lt;/h2&gt;
+    &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323255.20160108221722.5">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;有關我的作業&lt;/h1&gt;
+    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323255.20160108221722.6">(uncached) amd.20150915211351.9
+Diff...
+  &lt;section id="hw-task-one"&gt;
+-     &lt;h1&gt;作業任務一&lt;/h1&gt;
+-     &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+-     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
++     &lt;h2&gt;筆記&lt;/h2&gt;
++     &lt;p&gt;git branch __ 是建立分支；git branch checkout 是轉換分支；git branch 是檢查分支&lt;/p&gt;
++     
+  &lt;/section&gt;
+  				
+</t>
+<t tx="40323255.20160108221722.7">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;筆記&lt;/h2&gt;
+    &lt;p&gt;git branch __ 是建立分支；git branch checkout 是轉換分支；git branch 是檢查分支&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20160108221722.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20160108221722.9">(uncached) amd.20150915211351.12
+Diff...
+  &lt;section&gt;
+-     &lt;h1&gt;第3張投影片&lt;/h1&gt;
+-     &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+-     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
++     &lt;h2&gt;心得與分數&lt;/h2&gt;
++     &lt;p&gt;一年級的時候有學到基本的python，現在電腦輔助設計這堂課，學到比之前更進階的觀念，學到如何把python跟Leo Editor做結合，雖然只是皮毛而已，但是慢慢學習一定可以有收穫的！
++     我給我自己的分數：75 &lt;/p&gt;
++ 
+  &lt;/section&gt;
+  				
 </t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
@@ -2727,10 +2827,9 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h2&gt;心得與分數&lt;/h2&gt;
-    &lt;p&gt;一年級的時候有學到基本的python，現在電腦輔助設計這堂課，學到比之前更進階的觀念，學到如何把python跟Leo Editor做結合，雖然只是皮毛而已，但是慢慢學習一定可以有收穫的！
-    我給我自己的分數：75 &lt;/p&gt;
-
+    &lt;h1&gt;第3張投影片&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2761,15 +2860,15 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;四設二乙&lt;/h2&gt;
-    &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
+    &lt;h1&gt;有關我的作業&lt;/h1&gt;
+    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;筆記&lt;/h2&gt;
-    &lt;p&gt;git branch __ 是建立分支；git branch checkout 是轉換分支；git branch 是檢查分支&lt;/p&gt;
-    
+    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
