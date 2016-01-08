@@ -293,7 +293,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -301,14 +301,13 @@
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
 <v t="amd.20150915211351.9"><vh>第2</vh></v>
-<v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
 </v>
 </v>
 <v t="amd.20150915211351.15"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20151018225855.1"><vh>@clean simplest2.html</vh>
+<v t="leo.20151018225855.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="leo.20151018225855.2"><vh>檔案說明</vh></v>
 <v t="leo.20151018225855.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151018225855.4" a="E"><vh>body 標註</vh>
@@ -316,14 +315,13 @@
 <v t="leo.20151018225855.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151018225855.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151018225855.8"><vh>第2</vh></v>
-<v t="leo.20151018225855.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
 <v t="leo.20151018225855.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20151104150505.1"><vh>@clean simplest3.html</vh>
+<v t="leo.20151104150505.1" a="E"><vh>@clean simplest3.html</vh>
 <v t="leo.20151104150505.2"><vh>檔案說明</vh></v>
 <v t="leo.20151104150505.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151104150505.4" a="E"><vh>body 標註</vh>
@@ -331,16 +329,13 @@
 <v t="leo.20151104150505.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151104150505.7"><vh>有關我的作業</vh></v>
 <v t="leo.20151104150505.8"><vh>第2</vh></v>
-<v t="leo.20151104152018.1"><vh>第3</vh></v>
-<v t="leo.20151104152602.1"><vh>第4</vh></v>
-<v t="leo.20151104150505.9"><vh>第5</vh></v>
 </v>
 </v>
 <v t="leo.20151104150505.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="40323255.20151105165948.1"><vh>@clean simplest4.html</vh>
+<v t="40323255.20151105165948.1" a="E"><vh>@clean simplest4.html</vh>
 <v t="40323255.20151105165948.2"><vh>檔案說明</vh></v>
 <v t="40323255.20151105165948.3" a="E"><vh>html 標註</vh>
 <v t="40323255.20151105165948.4" a="E"><vh>body 標註</vh>
@@ -348,16 +343,13 @@
 <v t="40323255.20151105165948.6" a="E"><vh>div class="slides"</vh>
 <v t="40323255.20151105165948.7"><vh>有關我的作業</vh></v>
 <v t="40323255.20151105165948.8"><vh>第2</vh></v>
-<v t="40323255.20151105165948.9"><vh>第3</vh></v>
-<v t="40323255.20151105165948.10"><vh>第4</vh></v>
-<v t="40323255.20151105165948.11"><vh>第5</vh></v>
 </v>
 </v>
 <v t="40323255.20151105165948.12"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="40323255.20151105201832.1"><vh>@clean simplest5.html</vh>
+<v t="40323255.20151105201832.1" a="E"><vh>@clean simplest5.html</vh>
 <v t="40323255.20151105201832.2"><vh>檔案說明</vh></v>
 <v t="40323255.20151105201832.3" a="E"><vh>html 標註</vh>
 <v t="40323255.20151105201832.4" a="E"><vh>body 標註</vh>
@@ -365,9 +357,6 @@
 <v t="40323255.20151105201832.6" a="E"><vh>div class="slides"</vh>
 <v t="40323255.20151105201832.7"><vh>有關我的作業</vh></v>
 <v t="40323255.20151105201832.8"><vh>第2</vh></v>
-<v t="40323255.20151105201832.9"><vh>第3</vh></v>
-<v t="40323255.20151105201832.10"><vh>第4</vh></v>
-<v t="40323255.20151105201832.11"><vh>第5</vh></v>
 </v>
 </v>
 <v t="40323255.20151105201832.12"><vh>script</vh></v>
@@ -740,20 +729,6 @@
 @others
 
 </t>
-<t tx="40323255.20151105165948.10">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Creo Parametric操作流程(3)&lt;/h2&gt;
-    &lt;p&gt;在一次做引伸，不過這次是引伸除料，再矩形中心畫直徑8mm的圓孔，選擇貫穿除料，同樣的動作在其他面進行，完成後，就會有六個圓孔；在選擇導圓角，尺寸5mm在每個邊線進行，最後要在圓孔上進行導角，尺寸為0.5mmX0.5mm，第一個零件就完成了。&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323255.20151105165948.11">&lt;section&gt;
-    &lt;h2&gt;心得及自評分數&lt;/h2&gt;
-    &lt;p&gt;剛接觸Creo，對於它的界面有點不熟悉，因為我平常都是使用SoildWorks，但是視角的觀念、畫圖的觀念，基本上都是一樣的，所以在畫一段時間，一定可以使用Creo畫出其他的東西的。 &lt;/p&gt;
-    &lt;p&gt;自評分數：80 &lt;/p&gt;
-
-&lt;/section&gt;
-				
-</t>
 <t tx="40323255.20151105165948.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -802,23 +777,15 @@
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
-    &lt;p&gt;四設計二乙&lt;/p&gt;	
-    &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
+    &lt;h2&gt;四設二乙 &lt;/h2&gt;
+    &lt;p&gt;40323254蔡柏峰&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="40323255.20151105165948.8">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Creo Parametric操作流程(1)&lt;/h2&gt;
-    &lt;p&gt;我們第一個零件，是一個邊長都是30mm的正立方體，並且在六面的中間都給它去除直徑8mm的孔，在給邊長做圓角半徑5mm，再給孔一個導角0.5mmX0.5mm。&lt;/p&gt;
-    
-&lt;/section&gt;
-				
-</t>
-<t tx="40323255.20151105165948.9">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Creo Parametric操作流程(2)&lt;/h2&gt;
-    &lt;p&gt;我們先按下引伸，在前視圖建立草圖；在creo這套軟體，我們在繪製草圖我們必須先給草圖參照線，它才能定義在我們要的地方；在給草圖水平以及垂直的中心線，這樣等等畫矩形才能給它定義尺寸，給它一個矩形30mmX30mm，尺寸給好後按確認，給它深長30mm。&lt;/p&gt;
-    
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;p&gt;我們練習基本支架繪製，畫了一個方塊和一個連接桿， 最後把它組成一個支架。剛開始畫的不順，一下跑出來一下跑不出來，雖然後面組裝地方有點卡卡的，但後來畫順之後有成功錄好影片。
+    &lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -826,21 +793,6 @@
 @tabwidth -4
 @others
 
-</t>
-<t tx="40323255.20151105201832.10">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Creo Parametric操作流程(3)&lt;/h2&gt;
-    &lt;p&gt;第二種畫法：旋轉&lt;/p&gt;
-    &lt;p&gt;首先，我們點選旋轉，選擇前視圖，依照它軸的形狀，畫完之後，旋轉長料，軸就完成了；再點選旋轉，一樣在前視圖，畫出凹陷的形狀，然後旋轉除料；再進行軸的倒角，就完成了。&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323255.20151105201832.11">&lt;section&gt;
-    &lt;h2&gt;心得及自評分數&lt;/h2&gt;
-    &lt;p&gt;Creo這套軟體越畫越有心得，同一種零件，我們不一定要使用同一種方式才畫得出來，就看我們怎麼利用它的功能而已，尤其對於有學過其他繪圖軟體的人，很容易就上手了。 &lt;/p&gt;
-    &lt;p&gt;自評分數：80 &lt;/p&gt;
-
-&lt;/section&gt;
-				
 </t>
 <t tx="40323255.20151105201832.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
@@ -890,23 +842,15 @@
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
-    &lt;p&gt;四設計二乙&lt;/p&gt;	
-    &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
+    &lt;h2&gt;四設二乙 &lt;/h2&gt;
+    &lt;p&gt;40323254蔡柏峰&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="40323255.20151105201832.8">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Creo Parametric操作流程(1)&lt;/h2&gt;
-    &lt;p&gt;我們第二個零件，是一根全長90mm的軸，這零件有兩種畫法；第一種是用引伸長料的方式，另一種方式則是使用旋轉長料的方式，而中間凹陷的地方，方法都是使用旋轉除料的方式，這零件值得注意的地方，它也是有倒角的哦，在實際零件上，導角的功用是方便配置哦。&lt;/p&gt;
-    
-&lt;/section&gt;
-				
-</t>
-<t tx="40323255.20151105201832.9">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Creo Parametric操作流程(2)&lt;/h2&gt;
-    &lt;p&gt;第一種畫法：引伸&lt;/p&gt;
-    &lt;p&gt;首先，我們點選引伸，選擇右側視圖，畫一個圓直徑8mm，長料90mm，再用引伸的方式，一樣在右側視圖，畫一個圓直徑12mm，伸長70mm；點選旋轉，轉至前視圖，畫出凹陷的形狀，然後旋轉除料；再進行軸的倒角，就完成了。&lt;/p&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;p&gt;我們練習基本支架繪製，畫了一個方塊和一個連接桿， 最後把它組成一個支架。剛開始畫的不順，一下跑出來一下跑不出來，雖然後面組裝地方有點卡卡的，但後來畫順之後有成功錄好影片。
+    &lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2826,13 +2770,6 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;/head&gt;
 @others
 </t>
-<t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
 <t tx="amd.20150915211351.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -2859,19 +2796,27 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 <t tx="amd.20150915211351.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
+
+
+
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
-&lt;/section&gt;
-	
+    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
+    &lt;p&gt;四設計二乙&lt;/p&gt;	
+    &lt;p&gt;40323254 蔡柏峰&lt;/p&gt;		
+
+&lt;/section&gt;	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
+    &lt;h2&gt;心得筆記&lt;/h2&gt;
+    &lt;p&gt;我們要先從學校的電腦裡copy一個12G的檔案 我弄出了了幾個主要的東西 &lt;/p&gt;
+&lt;p&gt;檢查分支 : git bramch &lt;/p&gt;
+&lt;p&gt;新建分支 : git branch 分支名稱 &lt;/p&gt;
+&lt;p&gt;切換分支 : git checkout 分支名稱 &lt;/p&gt;
+&lt;p&gt;經過了一翻的努力、請教，終於將資料成功推上遠端。在作業過程中常常推壞掉。&lt;/p&gt;
+    
+
+&lt;/section&gt;</t>
 <t tx="amd.20150917085040.1">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
@@ -3131,23 +3076,16 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;section&gt;
     &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
     &lt;p&gt;四設計二乙&lt;/p&gt;	
-    &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
+    &lt;p&gt;40323254 蔡柏峰&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20151018225855.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;心得&lt;/h2&gt;
 
-    &lt;p&gt;這週使用一套繪圖軟體[solvespace]，相對其他繪圖軟體，例如：soildworks、invertor來說，它相對的比較複雜，對於有學習過繪圖的人來說，雖然大同小異，但是我認為它最大的差異就是介面了；但是它的好處就是容易攜帶，它可以讓我們以後能夠出差時，一有idea時就可以馬上畫出來，不怕idea錯過。&lt;/p&gt;
+    &lt;p&gt;我們學習使用Solvespace學會畫出一個立體圖形，第一次接觸這程式不太會畫，又是全英文，查了很多單字菜看懂他在說甚麼，根本快變英文課了所以一樣熟能生巧，畫久就出來了。&lt;/p&gt;
 
     
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151018225855.9">&lt;section&gt;
-    &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;我給我自己的分數：75 &lt;/p&gt;
-
 &lt;/section&gt;
 				
 </t>
@@ -3204,39 +3142,15 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;電腦輔助設計與實習&lt;/h2&gt;
-    &lt;p&gt;四設計二乙&lt;/p&gt;	
-    &lt;p&gt;40323255 鄭智文&lt;/p&gt;		
+    &lt;h2&gt;四設二乙 &lt;/h2&gt;
+    &lt;p&gt;40323254蔡柏峰&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20151104150505.8">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Creo Parametric使用心得&lt;/h2&gt;
-    &lt;p&gt;這次使用一套繪圖軟體[ Creo Parametric ]，因為我目前也有在學這套高端的繪圖軟體，所以畫起來蠻得心應手的，我認為它的功能性，跟其他我使用過的繪圖軟體比起來，它的功能性強大很多，它可以用於建立模具上，甚至可以在模具上建立模穴、澆道，對於我而言，是一套值得好好學習的繪圖軟體。&lt;/p&gt;
-    
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151104150505.9">&lt;section&gt;
-    &lt;h2&gt;心得及自評分數&lt;/h2&gt;
-    &lt;p&gt; 我自己認為將leo、github以及creo連結在一起，蠻不錯的，讓我對近端、遠端有稍微概念，感覺如果繼續往下挖掘，會更上一層程度。&lt;/p&gt;
-    &lt;p&gt;自評分數：80 &lt;/p&gt;
-
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151104152018.1">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Creo Parametric資料&lt;/h2&gt;
-    &lt;p&gt;Creo Parametric (前身為 Pro/ENGINEER) 已儼然成為 3D CAD 產品設計的標準；它提供了先進的產能工具，不但能夠促成最佳設計工作模式，還能確保符合業界與公司標準。Creo Parametric 擁有業界最廣泛的強大且富彈性 3D CAD 設計功能，可協助您因應最急切的設計挑戰，包括整合後期變更、處理多種 CAD 資料和機電設計。&lt;/p&gt;
-    
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151104152602.1">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;Creo Parametric特點&lt;/h2&gt;
-    &lt;p&gt;1.功能強大且富彈性的參數式 3D CAD 功能創造出卓越的產品區隔和製造可行性。&lt;/p&gt;
-    &lt;p&gt;2.廣泛的概念設計功能協助快速推出新產品上市。&lt;/p&gt;
-    &lt;p&gt;3.整合後期變更，並將設計變更自動傳播到所有下游交付物，這些能力讓您能夠充滿信心地進行設計。&lt;/p&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;p&gt;我們練習基本支架繪製，畫了一個方塊和一個連接桿， 最後把它組成一個支架。剛開始畫的不順，一下跑出來一下跑不出來，雖然後面組裝地方有點卡卡的，但後來畫順之後有成功錄好影片。
+    &lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
