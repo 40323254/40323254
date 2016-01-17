@@ -42,6 +42,9 @@
 <v t="leo.20151104150607.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="40323255.20151105165631.1"><vh>@edit 2015cphww6.md</vh></v>
 <v t="40323255.20151105201724.1"><vh>@edit 2015cphww7.md</vh></v>
+<v t="40323255.20160117132928.1"><vh>@edit 2015cphww11.md</vh></v>
+<v t="40323255.20160117132935.1"><vh>@edit 2015cphww14.md</vh></v>
+<v t="40323255.20160117132936.1"><vh>@edit 2015cphww15.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
@@ -302,7 +305,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151018225855.1" a="E"><vh>@clean simplest2.html</vh>
+<v t="leo.20151018225855.1"><vh>@clean simplest2.html</vh>
 <v t="leo.20151018225855.2"><vh>檔案說明</vh></v>
 <v t="leo.20151018225855.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151018225855.4" a="E"><vh>body 標註</vh>
@@ -316,7 +319,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151104150505.1" a="E"><vh>@clean simplest3.html</vh>
+<v t="leo.20151104150505.1"><vh>@clean simplest3.html</vh>
 <v t="leo.20151104150505.2"><vh>檔案說明</vh></v>
 <v t="leo.20151104150505.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151104150505.4" a="E"><vh>body 標註</vh>
@@ -330,7 +333,7 @@
 </v>
 </v>
 </v>
-<v t="40323255.20151105165948.1" a="E"><vh>@clean simplest4.html</vh>
+<v t="40323255.20151105165948.1"><vh>@clean simplest4.html</vh>
 <v t="40323255.20151105165948.2"><vh>檔案說明</vh></v>
 <v t="40323255.20151105165948.3" a="E"><vh>html 標註</vh>
 <v t="40323255.20151105165948.4" a="E"><vh>body 標註</vh>
@@ -344,7 +347,7 @@
 </v>
 </v>
 </v>
-<v t="40323255.20151105201832.1" a="E"><vh>@clean simplest5.html</vh>
+<v t="40323255.20151105201832.1"><vh>@clean simplest5.html</vh>
 <v t="40323255.20151105201832.2"><vh>檔案說明</vh></v>
 <v t="40323255.20151105201832.3" a="E"><vh>html 標註</vh>
 <v t="40323255.20151105201832.4" a="E"><vh>body 標註</vh>
@@ -355,6 +358,48 @@
 </v>
 </v>
 <v t="40323255.20151105201832.12"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323255.20160117133124.1"><vh>@clean simplest6.html</vh>
+<v t="40323255.20160117133124.2"><vh>檔案說明</vh></v>
+<v t="40323255.20160117133124.3" a="E"><vh>html 標註</vh>
+<v t="40323255.20160117133124.4" a="E"><vh>body 標註</vh>
+<v t="40323255.20160117133124.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323255.20160117133124.6" a="E"><vh>div class="slides"</vh>
+<v t="40323255.20160117133124.7"><vh>有關我的作業</vh></v>
+<v t="40323255.20160117133124.8"><vh>第2</vh></v>
+</v>
+</v>
+<v t="40323255.20160117133124.9"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323255.20160117133126.1"><vh>@clean simplest7.html</vh>
+<v t="40323255.20160117133126.2"><vh>檔案說明</vh></v>
+<v t="40323255.20160117133126.3" a="E"><vh>html 標註</vh>
+<v t="40323255.20160117133126.4" a="E"><vh>body 標註</vh>
+<v t="40323255.20160117133126.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323255.20160117133126.6" a="E"><vh>div class="slides"</vh>
+<v t="40323255.20160117133126.7"><vh>有關我的作業</vh></v>
+<v t="40323255.20160117133126.8"><vh>第2</vh></v>
+</v>
+</v>
+<v t="40323255.20160117133126.9"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323255.20160117133127.1"><vh>@clean simplest8.html</vh>
+<v t="40323255.20160117133127.2"><vh>檔案說明</vh></v>
+<v t="40323255.20160117133127.3" a="E"><vh>html 標註</vh>
+<v t="40323255.20160117133127.4" a="E"><vh>body 標註</vh>
+<v t="40323255.20160117133127.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323255.20160117133127.6" a="E"><vh>div class="slides"</vh>
+<v t="40323255.20160117133127.7"><vh>有關我的作業</vh></v>
+<v t="40323255.20160117133127.8"><vh>第2</vh></v>
+</v>
+</v>
+<v t="40323255.20160117133127.9"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -684,6 +729,201 @@
 				
 </t>
 <t tx="40323255.20160108221722.2"></t>
+<t tx="40323255.20160117133124.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323255.20160117133124.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323255.20160117133124.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323255.20160117133124.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323255.20160117133124.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323255.20160117133124.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323255.20160117133124.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設二乙 &lt;/h2&gt;
+    &lt;p&gt;40323254蔡柏峰&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323255.20160117133124.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;p&gt;我們練習基本支架繪製，畫了一個方塊和一個連接桿， 最後把它組成一個支架。剛開始畫的不順，一下跑出來一下跑不出來，雖然後面組裝地方有點卡卡的，但後來畫順之後有成功錄好影片。
+    &lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20160117133124.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323255.20160117133126.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323255.20160117133126.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323255.20160117133126.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323255.20160117133126.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323255.20160117133126.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323255.20160117133126.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323255.20160117133126.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設二乙 &lt;/h2&gt;
+    &lt;p&gt;40323254蔡柏峰&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323255.20160117133126.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;p&gt;我們練習基本支架繪製，畫了一個方塊和一個連接桿， 最後把它組成一個支架。剛開始畫的不順，一下跑出來一下跑不出來，雖然後面組裝地方有點卡卡的，但後來畫順之後有成功錄好影片。
+    &lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20160117133126.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323255.20160117133127.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323255.20160117133127.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323255.20160117133127.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323255.20160117133127.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323255.20160117133127.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323255.20160117133127.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323255.20160117133127.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設二乙 &lt;/h2&gt;
+    &lt;p&gt;40323254蔡柏峰&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323255.20160117133127.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;p&gt;我們練習基本支架繪製，畫了一個方塊和一個連接桿， 最後把它組成一個支架。剛開始畫的不順，一下跑出來一下跑不出來，雖然後面組裝地方有點卡卡的，但後來畫順之後有成功錄好影片。
+    &lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323255.20160117133127.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
